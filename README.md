@@ -4,5 +4,5 @@ Aqui você encontrará os arquivos que utilizei, os links necessários para aces
 
 ### Análise Exploratória de Dados de Logística (LOGGI)
 
-O projeto consiste em fazer a extração dos dados, a limpeza e a partir disso procurar uma solução para melhor localização dos HUBs de entregas.
+O projeto consiste em fazer a extração dos dados, a limpeza e a partir disso procurar possíveis melhorias que possam ser realizadas.
 
